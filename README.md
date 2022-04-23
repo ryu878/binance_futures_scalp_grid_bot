@@ -41,7 +41,7 @@ Run pip install to install:
 - numpy
 
 
-To start trading on Binance using BUSD Futures and earn rebates register here: https://www.binance.com/en/futures/ref/421719790
+To start trading on Binance Futures and earn rebates register here: https://www.binance.com/en/futures/ref/421719790
 
 <strong>Disclaimer</strong>
 <hr>
