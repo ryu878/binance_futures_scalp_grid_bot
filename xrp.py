@@ -1,5 +1,5 @@
 from binance.client import Client
-import config_xrp
+import config
 import time
 import ta
 import pandas as pd
@@ -7,7 +7,7 @@ import numpy as np
 from datetime import datetime
 
 
-config = config_xrp
+config = config
 api_key = config.key
 api_secret = config.secret
 symbol = config.symbol
