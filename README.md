@@ -9,7 +9,7 @@ This simple bot written with python enter the market using small grid based on A
 
 <strong>How to use</strong>
 
-1. Open config.py file and change initial grid lot size.
+1. Edit config.py file, add you API credentials and change initial grid lot size.
 2. run python3 xrp.py
 
 <strong>Entry logic</strong>
