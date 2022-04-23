@@ -1,3 +1,7 @@
+##############################################
+# Binance Futures Scalp Grid Bot
+# Feel free to contact me Discord ryuryu#4087
+##############################################
 from binance.client import Client
 import config
 import time
@@ -243,8 +247,9 @@ while True:
     else:
         pass     
 
-    print('--💰-bȝstt--',symbol,'--',current_time)
-
+    print('Binance Futures Scalp Grid Bot',symbol,'--',current_time)
+    print('(Discord ryuryu#4087)')
+    
     if float(ask) < real_6ema_high:
         print('1. Ask < EMA6 High')
     else:
