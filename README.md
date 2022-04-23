@@ -35,10 +35,10 @@ Sometimes bot first delete the grid and then open position. Will fix it in next 
 <strong>Requirements</strong>
 
 Run pip install to install:
-python-binance
-ta
-pandas
-numpy
+- python-binance
+- ta
+- pandas
+- numpy
 
 
 To start trading on Binance using BUSD Futures and earn rebates register here: https://www.binance.com/en/futures/ref/421719790
