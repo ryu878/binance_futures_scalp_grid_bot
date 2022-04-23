@@ -16,11 +16,11 @@ short_tp_static_deduct = 0.0001
 
 max_leverage = 20
 
-atr_mult1 = 3         # 2.5
-atr_mult2 = 7         # 5
-atr_mult3 = 11        # 7.5
-atr_mult4 = 17        # 11
-atr_mult5 = 21        # 15
+atr_mult1 = 2
+atr_mult2 = 4
+atr_mult3 = 6
+atr_mult4 = 8
+atr_mult5 = 10
 
 mult1 = 1
 mult2 = 2
