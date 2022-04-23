@@ -17,3 +17,8 @@ Bot will check EMA 6 High (and, optional, EMA60, EMA120, EMA240) and if price hi
 
 
 To start trading on Binance using BUSD Futures and earn rebates register here: https://www.binance.com/en/futures/ref/421719790
+
+<strong>Contacts</strong>
+
+Feel free to contact me via Discord: ryuryu#4087
+or join Discord group here: https://discord.gg/zSw58e9Uvf
