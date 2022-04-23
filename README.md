@@ -1,5 +1,7 @@
 <strong>Binance Futures Scalp Grid Bot</strong>
 
+![image](https://user-images.githubusercontent.com/81808867/164885242-d2da893e-e60e-444e-be76-7e41aa9bb7ed.png)
+
 
 On Binance exchange (at date of April 2022) there are Futures nominated in BUSD. And there are rebates 0.01% for market maker, so it is +0.02% per turn if you are using limit orders both for entry and for exit.
 
