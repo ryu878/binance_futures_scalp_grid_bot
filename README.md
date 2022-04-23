@@ -3,7 +3,7 @@
 
 On Binance exchange (at date of April 2022) there are Futures nominated in BUSD. And there are rebates 0.01% for market maker, so it is +0.02% per turn if you are using limit orders both for entry and for exit.
 
-This simple bot written with python enter the market using simple grid based on ATR, and immediately place close order. In this example it will trade on XRPBUSD pair, but you can change it in settings.
+This simple bot written with python enter the market using small grid based on ATR and immediately place close order. In this example it will trade on XRPBUSD pair, but you can change it in settings.
 
 <strong>How to use</strong>
 
