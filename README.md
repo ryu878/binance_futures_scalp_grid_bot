@@ -9,7 +9,7 @@ On Binance exchange (at date April 2022) there are Futures nominated in BUSD. An
 
 
 This simple bot written with python enter the market using small grid based on ATR and immediately place close order. In this example it will trade on XRPBUSD pair, but you can change it in settings.
-
+<br><br>
 
 <strong>How to use</strong>
 
