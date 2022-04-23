@@ -1,6 +1,7 @@
 ##############################################
 # Binance Futures Scalp Grid Bot
 # Feel free to contact me Discord ryuryu#4087
+# https://discord.gg/zSw58e9Uvf
 ##############################################
 from binance.client import Client
 import config
