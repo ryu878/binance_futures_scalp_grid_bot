@@ -8,7 +8,7 @@ On Binance exchange (at date April 2022) there are Futures nominated in BUSD. An
 <i>This bot can trade any Futures, for example nominated in USDT too. But in this case you need to adjust take profit settings (to ensure that the fees are lower than your profits).</i>
 
 
-This simple bot written with python enter the market using small grid based on ATR and immediately place close order. In this example it will trade on XRPBUSD pair, but you can change it in settings. Please keep in mind that this example bot will open only short trades.
+This simple bot written with python enter the market using small grid based on ATR and immediately place close order. In this example it will trade on XRPBUSD pair, but you can change it in settings. Please keep in mind that this example bot will <u>open only short</u> trades.
 
 <br>
 <strong>How to use</strong>
@@ -19,7 +19,7 @@ This simple bot written with python enter the market using small grid based on A
 <br>
 <strong>Entry logic</strong>
 
-Bot will check EMA 6 High (and, optional, EMA60, EMA120, EMA240) and if price higher it will start placing entry orders.
+Bot will check EMA 6 High (and, optional, EMA60, EMA120, EMA240) and if price higher it will start placing entry sell orders.
 
 <br>
 <strong>Known issue</strong>
