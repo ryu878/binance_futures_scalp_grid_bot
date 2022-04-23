@@ -11,6 +11,7 @@ This simple bot written with python enter the market using simple grid based on 
 2. run python3 xrp.py
 
 <strong>Entry logic</strong>
+
 Bot will check EMA 6 High (and, optional, EMA60, EMA120, EMA240) and if price higher it will start placing entry orders.
 
 
