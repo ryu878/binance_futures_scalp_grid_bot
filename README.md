@@ -50,7 +50,7 @@ This project is for informational purposes only. You should not construe this in
 If you intend to use real money, use it at your own risk.
 
 Under no circumstances will we be responsible or liable for any claims, damages, losses, expenses, costs or liabilities of any kind, including but not limited to direct or indirect damages for loss of profits.
-
+<hr>
 
 
 <strong>Contacts</strong>
