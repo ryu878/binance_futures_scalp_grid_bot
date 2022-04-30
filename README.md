@@ -17,11 +17,12 @@ This simple bot written with python enter the market using small grid based on A
 
 <br>
 <strong>Entry logic</strong>
-Bot will check EMA 6 High (and, optional, EMA60, EMA120, EMA240) and if price higher it will start placing entry sell orders.
 
+Bot will check EMA 6 High (and, optional, EMA60, EMA120, EMA240) and if price higher it will start placing entry sell orders.
 
 <br>
 <strong>Known issue</strong>
+
 Sometimes bot first delete the grid and then open position. Will fix it in next releases.
 
 <br>
