@@ -60,5 +60,5 @@ Under no circumstances will we be responsible or liable for any claims, damages,
 Feel free to contact me via Discord: ryuryu#4087
 or join Discord group here: https://discord.gg/zSw58e9Uvf
 
-![image](https://user-images.githubusercontent.com/81808867/166115186-70de12b2-39fd-4eda-bb12-c1d8bec24ac6.png)
+<a href="https://discord.gg/zSw58e9Uvf">![image](https://user-images.githubusercontent.com/81808867/166115186-70de12b2-39fd-4eda-bb12-c1d8bec24ac6.png)</a>
 
