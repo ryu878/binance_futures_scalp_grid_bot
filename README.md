@@ -10,23 +10,28 @@ On Binance exchange (at date April 2022) there are Futures nominated in BUSD. An
 
 This simple bot written with python enter the market using small grid based on ATR and immediately place close order. In this example it will trade on XRPBUSD pair, but you can change it in settings. Please keep in mind that this example bot will <u>open only short</u> trades.
 
-# How to use
+<br>
+<strong>How to use</strong>
 - Edit config.py file, add you API credentials and change initial grid lot size.
 - Run python3 xrp.py
 
-# Entry logic
+<br>
+<strong>Entry logic</strong>
 Bot will check EMA 6 High (and, optional, EMA60, EMA120, EMA240) and if price higher it will start placing entry sell orders.
 
 
-# Known issue
+<br>
+<strong>Known issue</strong>
 Sometimes bot first delete the grid and then open position. Will fix it in next releases.
 
-# To Do
+<br>
+<strong>To Do</strong>
 
 - Change position and orders info requests to websocket.
 - Change decimals for symbol from manual to auto.
 
-# Requirements
+<br>
+<strong>Requirements</strong>
 
 Run pip install to install:
 - python-binance
