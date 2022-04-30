@@ -1,4 +1,4 @@
-#Binance Futures Scalp Grid Bot
+# Binance Futures Scalp Grid Bot
 
 ![image](https://user-images.githubusercontent.com/81808867/164885242-d2da893e-e60e-444e-be76-7e41aa9bb7ed.png)
 
